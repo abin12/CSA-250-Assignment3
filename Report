@@ -1,0 +1,11 @@
+tfidf 
+text preprocessing:
+smaller case
+removing special character,numbers,punctuations
+
+labelling data
+
+tfidf vectorizing
+arround 33000 features
+ passed through logistic regression (as sparse matrices) (didn't convert to dense matrices because of huge data size)
+accuracy=0.634771986970684
