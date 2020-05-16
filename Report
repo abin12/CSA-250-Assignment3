@@ -9,3 +9,7 @@ tfidf vectorizing
 arround 33000 features
  passed through logistic regression (as sparse matrices) (didn't convert to dense matrices because of huge data size)
 accuracy=0.634771986970684
+
+Couldn't upload neuralnetwork model due to  heavy size.
+
+Accuracy=0.7912255700325733
